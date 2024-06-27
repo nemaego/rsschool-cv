@@ -31,3 +31,14 @@ function arrayDiff(a, b) {
 
 ## Projects:  
 * [Markdown CV](https://nemaego.github.io/rsschool-cv/cv)
+## Education:  
+People's Friendship University of Russia, Public Administration  
+Moscow, Russia. *2012-2017*  
+
+Potsdam University, Public Administration  
+Student Exchange Program (Erasmus), Germany, *2016*  
+
+## Languages:
+* Russian - native speaker
+* English - itermediate
+* German - B2
