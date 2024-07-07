@@ -1,1 +1,82 @@
-!
+body {
+  max-width: 1440;
+	margin: 0 auto;
+  padding: 10px;
+  text-align: justify;
+	background-color: gray;
+	color: white;
+	font-family: 'Open Sans', sans-serif;
+  justify-content: space-between;
+}
+
+a {
+  color: white;
+}
+  header {
+    background-color: grey;
+  }
+
+  #contacts {
+    display: flex;
+  }
+
+  #languages {
+    display: flex;
+  }
+
+  #skills {
+    display: flex;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+main {
+  margin: 0 10rem;
+}
+
+  .container {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+
+  .nav-list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 3px 50px;
+  }
+
+  .nav-list li {
+    margin: 0 1rem;
+    
+  }
+
+  .nav li a {
+    text-decoration: none;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  .nav-link {
+    color: white; 
+   }
+   .nav-link:visited {
+    color: white; 
+   }
+   .nav-link:active {
+    color: #ffff00;
+   }
+
+
+ footer {
+	height: 70px;
+	line-height: 70px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	justify-items: stretch;
+ }
