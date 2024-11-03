@@ -2,38 +2,3 @@
     margin: 0;
     box-sizing: border-box;
 }
-
-body {
-    width: 595px;
-    background-color: #fff;
-    padding: 40px;
-    margin: 0 auto;
-}
-.header {
-    width: 515px;
-    height: 100px;
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 16px;
-    align-self: stretch;   
-}
-.info {
-    display: flex;
-    flex-direction: row;
-    gap: 24px;  
-}
-.avatar {
-    display: flex;
-    width: 72px;
-    height: 72px;
-}
-.avatar img {
-    object-fit: cover;
-    border-radius: 50%;
-}
-.email {
-    display: flex;
-    flex-direction: row;
-    gap: 5px;
-}
